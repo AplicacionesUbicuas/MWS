@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- pressed -->
+    <item android:state_pressed="true"><shape android:shape="oval">
+            <solid android:color="#400A690A" />
+
+        <size android:width="80dp" android:height="80dp"/>
+
+            <!--<padding android:bottom="20dp" android:top="20dp" />-->
+        </shape></item>
+
+    <!-- focused -->
+    <item android:state_focused="true"><shape android:shape="oval">
+            <solid android:color="#403B5F93" />
+
+        <size android:width="80dp" android:height="80dp"/>
+
+            <!--<padding android:bottom="20dp" android:top="20dp" />-->
+        </shape></item>
+
+    <!-- default -->
+    <item android:state_enabled="true"><shape android:shape="oval">
+            <solid android:color="#900A690A" />
+
+        <size android:width="80dp" android:height="80dp"/>
+
+            <!--<padding android:bottom="20dp" android:top="20dp" />-->
+        </shape></item>
+    <item><shape android:shape="oval">
+            <solid android:color="#900A690A" />
+
+            <size android:width="80dp" android:height="80dp"/>
+
+            <!--<padding android:bottom="20dp" android:top="15dp" />-->
+        </shape></item>
+
+</selector>

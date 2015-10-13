@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="semi_transparent_black">#70000000</color>
+    <color name="semi_transparent_white">#50FFFFFF</color>
+    <color name="green_material">#00897B</color>
+    <color name="orange_material">#E53935</color>
+    <color name="blue_material">#0277BD</color>
+
+</resources>

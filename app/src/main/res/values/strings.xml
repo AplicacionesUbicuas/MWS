@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MWS</string>
+    <string name="image_description">image</string>
+    <string name="db_name">mws_database.sqlite</string>
+    <string name="action_settings">Configuración</string>
+    <string name="shared_preferences_name">Pref</string>
+
+    <!-- Strings used in buttons -->
+    <string name="accept">Aceptar</string>
+    <string name="save_button">Guardar</string>
+    <string name="add_pages_button">Agregar</string>
+    <string name="icon_pages_button">Icono</string>
+    <string name="url_pages_button">Url</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change">Cambiar</string>
+    <string name="view">Ver</string>
+    <string name="selectInfo">+</string>
+
+    <!-- Strings used in activity_splash -->
+    <string name="program">FIET</string>
+    <string name="university">Universidad del Cauca</string>
+    <string name="year">2015</string>
+
+
+    <!-- Strings used in activity_main -->
+    <string name="startServer">Servidor Encendido</string>
+    <string name="stopServer">Servidor Apagado</string>
+    <string name="server">Iniciar Servidor:</string>
+    <string name="options">Opciones del  Servidor:</string>
+    <string name="Info">Url</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
